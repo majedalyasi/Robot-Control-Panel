@@ -9,3 +9,4 @@
 
 ويمكنك تجربة لوحة التحكم من خلال الرابط التالي: 
 
+https://majedalyasi.github.io/Robot-Control-Panel/
