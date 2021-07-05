@@ -1,0 +1,95 @@
+body {
+    background: url(img1.jpeg);
+}
+
+p {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: -100px;
+    color: white;
+}
+
+.Engines {
+    color: white;
+    margin: auto;
+    padding: 0.3%;
+    background: rgba(21, 26, 99, 0.226);
+    border: 1px solid white;
+    position: relative;
+    width: 600px;
+    top: 150px;
+    border-radius: 10px;
+}
+
+.slideContainerA {
+    color: white;
+    width: 100%;
+    display: flex;
+    padding: 5px;
+}
+
+#myRangeA,
+#myRangeB,
+#myRangeC,
+#myRangeD,
+#myRangeE,
+#myRangeF {
+    width: 86%;
+}
+
+.btns {
+    width: 98%;
+    margin: 10px auto;
+    display: flex;
+}
+
+.btn {
+    margin: 1px auto;
+}
+.wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.item{
+    padding: 10px;
+}
+
+.btn{
+    outline: none;
+    display: block;
+    border: 0;
+    font-size: 16px;
+    line-height: 1;
+    padding: 16px 30px;
+    border-radius: 30px;
+    background: #0081D5;
+    color: #ffffff;
+    cursor: pointer;
+    transition: all 0.3s linear;
+}
+
+.btn:hover,
+.btn:focus{
+    background: #005C99;
+}
+
+.btn:active{
+    background: #003659;
+}
+
+.btn-outline{
+    outline: none;
+    display: block;
+    border: 0;
+    font-size: 16px;
+    line-height: 1;
+    padding: 16px 30px;
+    border-radius: 30px;
+    background: #0081D5;
+    color: #ffffff;
+    cursor: pointer;
+    transition: all 0.3s linear;
+}
